@@ -1,5 +1,5 @@
 variable "name" {
-  default = "world"
+  default = "computer"
 }
 
 resource "container" "hello" {
